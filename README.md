@@ -1,15 +1,12 @@
-### Hi there 👋
+### Hi 👋
 
-I am Nikhil Sharma. My main interest lies in Data Science,Machine Learning and Deep learning. I also have basic knowledge of Tableau . I am always curious to learn something new.
+I am Nikhil Sharma pursuing bachelor from SKIT ,Jaipur. My main interest lies in Data Science,Machine Learning,Competitive Programming and Deep learning. I also have basic knowledge of Tableau . I am always curious to learn something new.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on machine learning,Competitive Programming and data structure 
+- 🌱 I’m currently learning machine learning
+- 👯 I’m looking to work on OPen Source Contribution.
+- 🤔 I’m looking for help with getting started carrer in field of Data Science.
+- 📫 linkedin:https://www.linkedin.com/in/nikhil-sharma-b0b860176/
+- ⚡ Fun fact: I like to work more
+

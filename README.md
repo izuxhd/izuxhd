@@ -23,5 +23,5 @@ I am Nikhil Sharma pursuing bachelors from SKIT ,Jaipur. My main interest lies i
 - 👯 I’m looking to work on Open Source Contribution.
 - 🤔 I’m looking for help with getting started carrer in field of Data Science.
 
-- ⚡ Fun fact: I like to work more
+- ⚡ Fun fact: I like to learn more.
 

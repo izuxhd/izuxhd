@@ -5,7 +5,7 @@
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/ary.clenio/">
+<a target="_blank" href="https://www.instagram.com/nikkhilsharma_/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="_blank" href="https://dev.to/aryclenio/">

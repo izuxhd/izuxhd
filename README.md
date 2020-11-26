@@ -15,7 +15,7 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a></br>
 
-I am Nikhil Sharma pursuing bachelors from SKIT ,Jaipur. My main interest lies in Data Science,Machine Learning,Competitive Programming and Deep learning. I also have knowledge of Tableau,python programming, data structures,HTML,CSS,CNN,flask framework,statics.I have intermediate knowledge of Tableau . I am always curious to learn something new.
+I am Nikhil Sharma pursuing bachelors from SKIT ,Jaipur. My main interest lies in Data Science,Machine Learning,Competitive Programming and Deep learning. I also have knowledge of python programming, data structures,CNN,flask framework,statics.I have intermediate knowledge of Tableau . I am always curious to learn something new and do implementation.
 
 
 - 🔭 I’m currently working on machine learning,Competitive Programming and data structure. 

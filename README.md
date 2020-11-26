@@ -19,9 +19,9 @@ I am Nikhil Sharma pursuing bachelors from SKIT ,Jaipur. My main interest lies i
 
 
 - 🔭 I’m currently working on machine learning,Competitive Programming and data structure. 
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning machine learning algorithms.
 - 👯 I’m looking to work on Open Source Contribution.
-- 🤔 I’m looking for help with getting started carrer in field of Data Science.
+- 🤔 I’m looking for help with getting started carrer in field of Data Science and ML.
 
 - ⚡ Fun fact: I like to learn more.
 

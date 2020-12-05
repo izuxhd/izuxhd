@@ -1,4 +1,5 @@
 ### Hi,there👋
+</br>
 <a target="_blank" href="https://www.linkedin.com/in/nikhil-sharma-b0b860176/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>

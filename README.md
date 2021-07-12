@@ -16,13 +16,13 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a></br>
 
-I am Nikhil Sharma pursuing bachelors from SKIT ,Jaipur. My main interest lies in Data Science,Machine Learning,Competitive Programming and Deep learning. I also have knowledge of python programming, data structures,CNN,flask framework,statics.I have intermediate knowledge of Tableau . I am always curious to learn something new and do implementation.
+I am Nikhil Sharma pursuing bachelors from SKIT ,Jaipur. My main interest lies in web development ,Competitive Programming and Data structures. I also have knowledge of python programming, data structures,CNN,flask frame work.I have intermediate knowledge of nodejs. I am always curious to learn something new and do implementation.
 
 
-- 🔭 I’m currently working on machine learning,Competitive Programming and data structure. 
-- 🌱 I’m currently learning machine learning algorithms.
-- 👯 I’m looking to work on Open Source Contribution.
-- 🤔 I’m looking for help with getting started carrer in field of Data Science and ML.
+- 🔭 I’m currently working on ,Competitive Programming and data structure. 
+- 🌱 I’m currently learning data structures and  algorithms.
+- 👯 I’m looking to work on Open Source project.
+- 🤔 I’m looking for help with getting started carrer in field of web development.
 
 - ⚡ Fun fact: I like to learn more.
 
